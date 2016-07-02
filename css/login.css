@@ -1,0 +1,15 @@
+#top{
+    width: 100%;
+    height: 85px;
+}
+#top .w{
+    width: 1210px;
+    height: 85px;
+    margin: auto;
+}
+#top .w img{
+    float: left;
+}
+#bg{
+    background-image: url("");
+}

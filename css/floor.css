@@ -1,0 +1,1336 @@
+#floor {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor .mc .block{
+    display: block;
+}
+
+#floor .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor .floor div{
+    float: left;
+}
+#floor .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor2 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor2 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor2 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor2 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor2 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor2 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor2 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor2 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor2 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor2 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor2 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor2 .mc .block{
+    display: block;
+}
+
+#floor2 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor2 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor2 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor2 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor2 .floor div{
+    float: left;
+}
+#floor2 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor3 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor3 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor3 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor3 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor3 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor3 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor3 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor3 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor3 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor3 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor3 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor3 .mc .block{
+    display: block;
+}
+
+#floor3 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor3 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor3 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor3 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor3 .floor div{
+    float: left;
+}
+#floor3 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor4 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor4 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor4 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor4 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor4 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor4 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor4 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor4 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor4 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor4 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor4 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor4 .mc .block{
+    display: block;
+}
+
+#floor4 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor4 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor4 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor4 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor4 .floor div{
+    float: left;
+}
+#floor4 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor5 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor5 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor5 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor5 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor5 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor5 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor5 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor5 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor5 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor5 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor5 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor5 .mc .block{
+    display: block;
+}
+
+#floor5 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor5 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor5 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor5 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor5 .floor div{
+    float: left;
+}
+#floor5 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor6 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor6 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor6 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor6 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor6 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor6 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor6 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor6 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor6 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor6 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor6 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor6 .mc .block{
+    display: block;
+}
+
+#floor6 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor6 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor6 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor6 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor6 .floor div{
+    float: left;
+}
+#floor6 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor7 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor7 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor7 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor7 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor7 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor7 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor7 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor7 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor7 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor7 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor7 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor7 .mc .block{
+    display: block;
+}
+
+#floor7 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor7 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor7 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor7 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor7 .floor div{
+    float: left;
+}
+#floor7 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor8 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor8 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor8 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor8 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor8 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor8 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor8 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor8 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor8 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor8 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor8 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor8 .mc .block{
+    display: block;
+}
+
+#floor8 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor8 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor8 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor8 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor8 .floor div{
+    float: left;
+}
+#floor8 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor9 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor9 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor9 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor9 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor9 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor9 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor9 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor9 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor9 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor9 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor9 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor9 .mc .block{
+    display: block;
+}
+
+#floor9 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor9 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor9 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor9 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor9 .floor div{
+    float: left;
+}
+#floor9 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+#floor10 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor10 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor10 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor10 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor10 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor10 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor10 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor10 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor10 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor10 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor10 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor10 .mc .block{
+    display: block;
+}
+
+#floor10 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor10 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor10 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor10 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor10 .floor div{
+    float: left;
+}
+#floor10 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+
+
+#floor11 {
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor11 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor11 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor11 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor11 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor11 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor11 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor11 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor11 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor11 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor11 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor11 .mc .block{
+    display: block;
+}
+
+#floor11 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor11 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor11 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor11 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor11 .floor div{
+    float: left;
+}
+#floor11 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
+
+
+#floor12{
+    width: 1210px;
+    height: 670px;
+    margin: 23px auto 0;
+}
+#floor12 .mt{
+    width: 1210px;
+    height: 37px;
+}
+#floor12 .mt h2{
+    font-weight: 600;
+    display: inline;
+    font-size: 24px;
+}
+#floor12 .mt h2 i{
+    background: url("../images/product_home_1.0.0.png") no-repeat 0 0;
+    width: 31px;
+    height: 25px;
+    display: inline-block;
+    color: white;
+    padding-right: 15px;
+    font-size: 16px;
+    line-height: 30px;
+    font-style: normal;
+}
+#floor12 .mt .tab{
+    float: right;
+    border: 1px solid #E8E8E7;
+}
+#floor12 .mt .tab li{
+    float: left;
+    /*width: 58px;*/
+    height: 34px;
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    border-left: 1px solid transparent ;
+    border-right: 1px solid transparent ;
+    border-top: 3px solid transparent;
+}
+#floor12 .mt .tab li a{
+    line-height: 34px;
+    border-right: 1px solid #999;
+    padding: 0 16px 0;
+    margin-right: -2px;
+}
+#floor12 .mt .tab li:hover{
+    border-left: 1px solid red ;
+    border-right: 1px solid red ;
+    border-top: 3px solid red;
+}
+#floor12 .mc{
+    width: 1210px;
+    height: 633px;
+    border-top: 1px solid red;
+    position: relative;
+}
+#floor12 .mc .side{
+    background: url("../images/fzxb1.jpg");
+    width: 330px;
+    height: 475px;
+    float: left;
+}
+#floor12 .mc .p-list{
+    width: 870px;
+    height: 474px;float: right;
+    margin-top: 0
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+}
+#floor12 .mc .block{
+    display: block;
+}
+
+#floor12 .mc .p-list .fore li{
+    width: 190px;
+    float: left;
+    padding: 10px 12.7px 0;
+    text-align: center;
+    border: 1px solid #f1f1f1;
+
+}
+#floor12 .mc .p-list .fore li div img{
+    width: 130px;
+    height: 130px;
+}
+#floor12 .mc .p-list .fore li div  a .e{
+    color: #333333;
+    font-size: 12px;
+    height: 28px;
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+    line-height: 20px;
+    overflow: hidden;
+}
+#floor12 .mc .p-list .fore li div  a .d{
+    color: red;
+    font-size: 18px;
+    display: block;
+    text-align: left;
+    padding: 10px 0 14px 0;
+}
+#floor12 .floor div{
+    float: left;
+}
+#floor12 .floor .list{
+    border-left: 1px solid #E8E8E7;
+}
