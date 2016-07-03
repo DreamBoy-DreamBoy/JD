@@ -1,0 +1,58 @@
+/* CSS Document */
+a, address, b, big, blockquote, body, center, cite, code, dd, del, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, img, ins, label, legend, li, ol, p, pre, small, span, strong, u, ul, button { margin:0;padding:0 }
+body {
+    font: 12px/1.5 Arial, Verdana, "\5b8b\4f53";
+    color: #666;
+}
+h1,h2,h3,h4,h5,h6,small{font-size:100%;}
+ul,ol{ list-style: none }
+a{ text-decoration: none;outline:none; }
+a:hover{ text-decoration: none }
+:focus{ outline: 0 }
+input{ border: none;outline: none }
+img{ border: none; vertical-align: top }
+table{ border-collapse: collapse; border-spacing: 0 }
+button, html input[type=button], input[type=submit]{
+    -webkit-appearance: button;
+}
+
+.fl{ float: left }
+.fr{ float: right }
+.clear:after{ display: block; content: '';clear: both }
+.clear{ zoom: 1 }
+i,u,s{
+    font-style: normal;
+}
+a, a:hover, a:active, a:visited, a:target {
+    text-decoration: none;
+    color: #666;
+}
+a:hover{
+    color: #c81623;
+}
+.w-ban {
+    position: relative;
+}
+.w-ab{
+    position: absolute;
+}
+.spe_i i{
+    position: absolute;
+    display: block;
+}
+.dd-spacer {
+    position: absolute;
+    top: -7px;
+    left: 0;
+    width: 81px;
+    height: 10px;
+    background-color: #fff;
+    overflow: hidden;
+}
+.jd-logo .l-shopping .shop_c ul li.s-dt{
+    background-color:#bffab1;
+}
+.hl-green{
+    background-color: #3b0;
+}
+.ov{ overflow: hidden }

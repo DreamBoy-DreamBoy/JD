@@ -1,0 +1,165 @@
+.whole{
+    margin: 0 auto;
+    width: 990px;
+}
+.jdLoginTop{
+   padding: 10px 0;
+}
+.jdLoginTop i{
+    display: inline-block;
+    margin: 10px 0 0 15px;
+    width: 110px;
+    height: 40px;
+    font-size: 0;
+    vertical-align: top;
+    background: url("img/l-icon.png") no-repeat center center;
+}
+
+.jdLogin{
+    width: 100%;
+    height: 475px;
+    background: #e93854 url("img/5731485aN1134b4f0.png") no-repeat center center;
+}
+.jdLogin .login{
+    position: relative;
+    float: right;
+    margin-top: 40px;
+    padding: 20px;
+    width: 306px;
+    background-color: #fff;
+}
+.login .l-mt{
+    margin: 10px 0;
+}
+.login .l-mt h1{
+    font-size: 18px;
+    font-family: "宋体";
+}
+.login .l-mt  .regin a{
+    margin-right: 5px;
+    height: 20px;
+    line-height: 20px;
+    padding-left: 20px;
+    font-size: 14px;
+    color: #b61d1d;
+     background: url("img/pwd-icons-new.png") no-repeat -104px -75px;
+}
+.login .l-mt  .regin a:hover,.login .aboutLogin a:hover{
+    text-decoration: underline;
+}
+.login .infor{
+    padding: 3px 0 3px 35px;
+    height: 18px;
+    line-height: 18px;
+    border: 1px solid #ffe57d;
+    background: #fff6d2 url("img/pwd-icons-new.png") no-repeat -90px -19px;
+}
+.item {
+    margin-bottom: 20px;
+}
+.login .userName,.login .pw{
+    height: 38px;
+    line-height: 38px;
+}
+.login .userName input, .login .pw input{
+    height: 36px;
+    line-height: 36px;
+}
+.login .userName,.login .pw{
+    width: 304px;
+    border:1px solid #bdbdbd;
+}
+.login .userName label,.login .pw label{
+    float: left;
+    width: 38px;
+    height: 38px;
+    border-right: 1px solid #bdbdbd;
+    background-image: url("img/pwd-icons-new.png");
+    background-repeat: no-repeat;
+}
+.login .userName input,.login .pw input{
+    width: 256px;
+    padding-left: 9px;
+    font-size: 14px;
+    font-family: "\5b8b\4f53";
+    border: 0;
+}
+.login .userName{
+    margin-top: 10px;
+}
+.login .userName label{
+    background-position: 0 0;
+}
+.login .userName label.light{
+    background-position: 0 -48px;
+}
+.login .pw label.light{
+    background-position: -47px -47px;
+}
+.login .pw label{
+    background-position: -47px 1px;
+}
+.login .aboutLogin{
+    font-size: 12px;
+}
+.login .aboutLogin input{
+    vertical-align: middle;
+}
+.login .aboutLogin .autoL{
+    cursor: default;
+}
+.loginBtn{
+    width: 302px;
+    height: 31px;
+    line-height:31px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 1px solid #e85356;
+    background-color: #e4393c;
+}
+.coagent .coagent-left,.coagent .coagent-left ul li a{
+    color: #999;
+}
+.coagent .coagent-left ul li{
+    float: left;
+}
+.coagent .coagent-left ul li span{
+    padding: 0 10px;
+    color: #ddd
+}
+.coagent .coagent-left ul li a:hover{
+    color: #c81623;
+    text-decoration: underline;
+}
+.coagent-right{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 60px;
+    height: 60px;
+    background: url("img/login-qricon-01.png") no-repeat -60px 0;
+    font-size:0;
+}
+.footer .check{
+    padding-left: 135px;
+    height: 20px;
+    line-height: 20px;
+    margin: 10px 0;
+    background: url("img/q-icon.png") no-repeat center center;
+}
+.footer .about{
+    text-align: center;
+    padding: 0 80px;
+}
+.footer .about ul li{
+    float: left;
+}
+.footer .about ul li span{
+    padding: 0 10px;
+}
+.footer .about ul li a:hover{
+    text-decoration: underline;
+}
+
